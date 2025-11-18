@@ -9,15 +9,13 @@ copyright: © 2025 Paradise City Reborn
 # Congiguration
 theme:
   name: material
-#   features:
-#     - navigation.tabs
+  favicon: assets/logo.png
+  icon: assets/logo.webp
   palette:
     scheme: slate
     primary: blue
     accent: orange
   language: nl
-  favicon: img/paradisecityrebornlogo.png
-  logo: img/paradisecityrebornlogo.webp
   features:
     - navigation.instant
     - navigation.tracking
